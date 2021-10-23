@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-//Desenvolva um algoritmo que peça a entrada de 2 números inteiros e some-o
-//develop an algorithm that ask the entrance of 2 numbers int and add the.
+/*
+    Desenvolva um algoritmo que peça a entrada de 2 números inteiros e some-o
+    Develop an algorithm that ask the entrance of 2 numbers int and add the.
+*/
 
 /*
     @author: Marcelo H P Silva
