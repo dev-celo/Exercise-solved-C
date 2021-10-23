@@ -3,6 +3,11 @@
 //Desenvolva um algoritmo que peça a entrada de 2 números inteiros e some-o
 //develop an algorithm that ask the entrance of 2 numbers int and add the.
 
+/*
+    @author: Marcelo H P Silva
+    date : 22-10-2021
+*/
+
 int main(){
     //declaração de variáveis || declaration of variables.
     int num1;
