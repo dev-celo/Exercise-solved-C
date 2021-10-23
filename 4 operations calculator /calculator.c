@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 /*
     Desenvolva um algoritmo que peça a entrada de 2 números inteiros, o usuário
